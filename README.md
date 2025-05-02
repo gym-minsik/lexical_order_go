@@ -39,7 +39,7 @@ keys := service.Generate(1000) // generates 1000 keys
         todos = append(todos, todo)
         return nil
     }
-    ```go  
+    ```
 
 2.	Migrating an existing ordering system to Lexical Order:
     ```go
